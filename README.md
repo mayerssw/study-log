@@ -1,3 +1,14 @@
+# Spring
+@RequestParam
+- URL에서 데이터를 찾음
+- key value 단일 데이터
+- ex)form 태그
+
+@RequestBody
+- HTTP Body
+- JSON
+- ajax
+--------------------------------------
 # JSP
 
 - JSP 공부하기 3강
